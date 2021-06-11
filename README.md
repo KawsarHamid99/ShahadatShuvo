@@ -59,4 +59,4 @@ Experienced in developing and implementing <a href="https://www.google.com/searc
     <img src="https://komarev.com/ghpvc/?username=ShahadatShuvo">
 </a>
 
-[![GitHub followers](https://img.shields.io/github/followers/hossain-shuvo7860?label=Follow&style=social)](https://github.com/hossain-shuvo7860) 
+[![GitHub followers](https://img.shields.io/github/followers/ShahadatShuvo?label=Follow&style=social)](https://github.com/ShahadatShuvo) 
