@@ -60,3 +60,10 @@ Experienced in developing and implementing <a href="https://www.google.com/searc
 </a>
 
 [![GitHub followers](https://img.shields.io/github/followers/ShahadatShuvo?label=Follow&style=social)](https://github.com/ShahadatShuvo) 
+
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/github/ShahadatShuvo/ShahadatShuvo.svg)](https://wakatime.com/badge/github/ShahadatShuvo/ShahadatShuvo)
+
+</div>
