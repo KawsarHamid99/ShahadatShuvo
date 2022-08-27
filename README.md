@@ -70,7 +70,7 @@ Experienced in developing and implementing <a href="https://www.google.com/searc
 
 <div align="center">
 
-[![WakaTime Stats Total](https://wakatime.com/badge/user/3657e34f-f6ef-4d34-b279-d978809eee32.svg?style=for-the-badge)](https://wakatime.com/@JannatinNaim)
+[![WakaTime Stats Total](https://wakatime.com/badge/user/3657e34f-f6ef-4d34-b279-d978809eee32.svg?style=for-the-badge)](https://wakatime.com/@ShahadatShuvo)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShahadatShuvo&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
 
