@@ -63,7 +63,7 @@ Experienced in developing and implementing <a href="https://www.google.com/searc
 
 
 <div align="center">
-<img src="https://wakatime.com/badge/user/c77f1454-3a99-4c0b-9e6f-a03f9819f37b.svg" width="400px">
+<img src="https://wakatime.com/badge/user/c77f1454-3a99-4c0b-9e6f-a03f9819f37b.svg" width="300px">
 </div>
 
 
