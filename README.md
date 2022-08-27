@@ -22,7 +22,7 @@ Experienced in developing and implementing <a href="https://www.google.com/searc
 
 :heart: Programming | :black_heart: Praying | :blue_heart: Traveling
 - 🔭 I’m currently working on Web Projects
-- 🌱 I’m currently learning Python, Javascript and React (love to learn new Tech and take new challenges) 
+- 🌱 I’m currently learning React Native (love to learn new Tech and take new challenges) 
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/ShahadatShuvo" target="_blank">LinkedIn</a>
 
@@ -63,7 +63,8 @@ Experienced in developing and implementing <a href="https://www.google.com/searc
 
 
 <div align="center">
-<img src="https://wakatime.com/badge/user/c77f1454-3a99-4c0b-9e6f-a03f9819f37b.svg" width="300px">
+<a href="https://wakatime.com/@ShahadatShuvo" target="_blank"><img src="https://wakatime.com/badge/user/c77f1454-3a99-4c0b-9e6f-a03f9819f37b.svg" width="300px"></a>
+
 </div>
 
 
