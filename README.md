@@ -65,6 +65,9 @@ Experienced in developing and implementing <a href="https://www.google.com/searc
 <div align="center">
 <a href="https://wakatime.com/@ShahadatShuvo" target="_blank"><img src="https://wakatime.com/badge/user/c77f1454-3a99-4c0b-9e6f-a03f9819f37b.svg" width="300px"></a>
 
+
+[![wakatime](https://wakatime.com/badge/user/c77f1454-3a99-4c0b-9e6f-a03f9819f37b.svg)](https://wakatime.com/@c77f1454-3a99-4c0b-9e6f-a03f9819f37b)
+
 </div>
 
 
