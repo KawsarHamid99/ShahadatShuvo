@@ -52,10 +52,7 @@ Leetcode Profile: https://leetcode.com/ShahadatShuvo
 </table>
 
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShahadatShuvo&theme=react-dark)  
-
-
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahadatShuvo&theme=react)](https://github.com/ShahadatShuvo/github-readme-activity-graph)
 
 <a href="https://github.com/ShahadatShuvo/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ShahadatShuvo">
