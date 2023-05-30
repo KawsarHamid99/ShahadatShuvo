@@ -65,7 +65,7 @@ Leetcode Profile: https://leetcode.com/ShahadatShuvo
 
 
 <div align="center">
-<a href="https://wakatime.com/@ShahadatShuvo" target="_blank"><img src="https://wakatime.com/badge/user/c77f1454-3a99-4c0b-9e6f-a03f9819f37b.svg" width="300px"></a>
+<a href="https://wakatime.com/@c77f1454-3a99-4c0b-9e6f-a03f9819f37b"><img src="https://wakatime.com/badge/user/c77f1454-3a99-4c0b-9e6f-a03f9819f37b.svg" alt="Total time coded since Jun 18 2022" /></a>
 
 
 </div>
