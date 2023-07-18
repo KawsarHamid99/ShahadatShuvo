@@ -27,6 +27,7 @@ Leetcode Profile: https://leetcode.com/ShahadatShuvo
 - 🌱 I’m currently learning Data Structure and Algorithms. 
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/ShahadatShuvo" target="_blank">LinkedIn</a>
+- Call me directly: +8801954677860 (whatsapp)
 
 [comment]: <> (- ⚡️ Fun fact: I’m a huge Web series fan )
 
