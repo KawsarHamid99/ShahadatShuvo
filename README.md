@@ -38,12 +38,12 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" style="width: 100%;">
+    <td align="center">
       
 ![Shahadat Shuvos's github stats](https://github-readme-stats.vercel.app/api?username=ShahadatShuvo&show_icons=true&hide_border=true&theme=vision-friendly-dark)
 
 
-<img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahadatShuvo&hide_border=true&theme=vision-friendly-dark" alt="ShahadatShuvo">   
+<img style="width: 95%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahadatShuvo&hide_border=true&theme=vision-friendly-dark" alt="ShahadatShuvo">   
 
 </td>
 <td>
