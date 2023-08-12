@@ -13,7 +13,7 @@
 <b>&#128200; Problem Solving</b>
 
 <p style="display: flex;" float="left">
-<img height="180em" src="[https://leetcard.jacoblin.cool/mdpabel?theme=light&font=Karma](https://leetcard.jacoblin.cool/ShahadatShuvo?theme=light&font=Karma)" />
+<img height="180em" src="https://leetcard.jacoblin.cool/ShahadatShuvo?theme=light&font=Karma" />
 </p>
 
 
