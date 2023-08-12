@@ -1,7 +1,5 @@
 ## About me 
 
-Leetcode Profile: https://leetcode.com/ShahadatShuvo
-
 :heart: Programming | :black_heart: Praying | :blue_heart: Traveling
 - 🔭 I’m currently working on Web Projects
 - 🌱 I’m currently learning Data Structure and Algorithms. 
@@ -10,6 +8,13 @@ Leetcode Profile: https://leetcode.com/ShahadatShuvo
 - Call me directly: +8801954677860 (whatsapp)
 
 [comment]: <> (- ⚡️ Fun fact: I’m a huge Web series fan )
+
+
+<b>&#128200; Problem Solving</b>
+
+<p style="display: flex;" float="left">
+<img height="180em" src="[https://leetcard.jacoblin.cool/mdpabel?theme=light&font=Karma](https://leetcard.jacoblin.cool/ShahadatShuvo?theme=light&font=Karma)" />
+</p>
 
 
 
