@@ -2,10 +2,10 @@
 
 :heart: Programming | :black_heart: Praying | :blue_heart: Traveling
 - 🔭 I’m currently working on Web Projects
-- 🌱 I’m currently learning Data Structure and Algorithms. 
+- 🌱 I’m currently using NextJS, React, Javascript, Python, Django. 
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/ShahadatShuvo" target="_blank">LinkedIn</a>
-- Call me directly: +8801954677860 (whatsapp)
+- Call me directly: +8801954677860 (WhatsApp)
 
 [comment]: <> (- ⚡️ Fun fact: I’m a huge Web series fan )
 
