@@ -38,7 +38,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td align="center">
       
 ![Shahadat Shuvos's github stats](https://github-readme-stats.vercel.app/api?username=ShahadatShuvo&show_icons=true&hide_border=true&theme=vision-friendly-dark)
 
